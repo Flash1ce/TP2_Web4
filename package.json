@@ -1,0 +1,17 @@
+{
+  "name": "tp2projet",
+  "version": "1.0.0",
+  "description": "Travail pratique 2",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laurent Drolet",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.15",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.0"
+  }
+}
